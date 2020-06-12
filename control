@@ -1,0 +1,9 @@
+Package: com.zunda.exampleimagepicker
+Name: ExampleImagePicker
+Depends: mobilesubstrate, preferenceloader, com.muirey03.libimagepicker
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Example ImagePicker!!
+Maintainer: zunda <zunda.pixel@gmail.com>
+Author: zunda <zunda.pixel@gmail.com>
+Section: Tweaks
